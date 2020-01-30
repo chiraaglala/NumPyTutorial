@@ -1,0 +1,3 @@
+# Examples of the NumPy tutorial tried in the terminal command line
+
+UNDER CONSTRUCTION!
