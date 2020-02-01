@@ -1,4 +1,4 @@
-# Examples of the NumPy tutorial tried in the terminal command line
+# Examples of the NumPy tutorial tried in the python3 interpreter
 
 $ python3
 Python 3.5.2 (default, Oct  8 2019, 13:06:37) 
